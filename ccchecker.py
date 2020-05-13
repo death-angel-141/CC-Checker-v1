@@ -1,11 +1,8 @@
-
-
-
 import os
 import json
 import requests
 
-#Made By Bheemesh
+
 
 
 succcess = open("cvc.txt", "a")
@@ -189,8 +186,4 @@ def addsuccess(text):
 
 main()
 
-
-#-----------------------------------------Made By Bheemesh----------------------------------------------------------------------
-#Telegram ID : @hellosre
-#Telegram ID : @hellosre
 
