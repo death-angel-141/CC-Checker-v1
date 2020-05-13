@@ -1,5 +1,5 @@
 # CC_Checker
-This Python based program checks your given Credit Card List and returns if it is Live or Dead . This is a 1req Checker so it does not charge your card , just validates it.Do let me know if the API is dead , i will try to change it. XD
+This Python based program checks your given Credit Card List and returns if it is Live or Dead . This is a 1req Checker so it does not charge your card , just validates it.
 
 *This Checker is VPN based checker , so if you get proxy error, change your IP and try again.
 
@@ -11,7 +11,5 @@ This Python based program checks your given Credit Card List and returns if it i
  - Start the Checker , that is cchecker.py
  - All the CCN and CVV cards will be saved in the success.txt file.
 
-# Contact
-If you have any difficulties with the Checker , contact me on Telegram [@hellosre](https://t.me/hellosre)
 
-Share Lives XD
+
